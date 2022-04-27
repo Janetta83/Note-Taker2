@@ -1,3 +1,1 @@
-# Note-Taker2
-Challenge 11
-
+# Note Taker Starter Code
